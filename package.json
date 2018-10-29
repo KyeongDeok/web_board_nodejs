@@ -1,0 +1,19 @@
+{
+  "name": "serverside_js",
+  "version": "1.0.0",
+  "description": "server side js tutorials",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "multer": "^1.4.1",
+    "node-mysql": "^0.4.2",
+    "underscore": "^1.9.1"
+  }
+}
